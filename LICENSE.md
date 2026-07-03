@@ -1,4 +1,4 @@
-# 
+# Elite Cline workflow. Featuring edge-computing and automated-workflows — optimized for maximum performance and efficiency.
 
 
 
